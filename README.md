@@ -3,7 +3,7 @@ Want to continue playing on our original survival world? Find out how to install
 
 # How to Install
 - **Download World:** [scf.cx/mc-world-1](https://drive.google.com/file/d/1b2pMw_gfqEiR52WzNsKcYbtVQC67JQ01/view?usp=sharing)
-- Navigate to `%appdata/.minecraft/saves` to view your saves in the File Explorer
+- Navigate to `%appdata%/.minecraft/saves` to view your saves in the File Explorer
 
 ![path](image.png)
 - Paste the downloaded world in the saves folder and extract it
